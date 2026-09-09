@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/csharp-roadmap-fundamentals/obj
+/csharp-roadmap-fundamentals/.vs/csharp-roadmap-fundamentals.slnx

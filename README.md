@@ -1,4 +1,4 @@
-\# C# Roadmap — Phase 1: Fundamentals
+# C# Roadmap — Phase 1: Fundamentals
 
 
 
@@ -8,37 +8,37 @@ C# fundamentals as part of a structured C#/.NET roadmap.
 
 
 
-\## Topics
+## Topics
 
-\- Value types vs reference types
+- Value types vs reference types
 
-\- Classes, structs, records
+- Classes, structs, records
 
-\- Properties, indexers, access modifiers
+- Properties, indexers, access modifiers
 
-\- ref / out / in
+- ref / out / in
 
-\- Nullable reference types
+- Nullable reference types
 
-\- Boxing / unboxing
+- Boxing / unboxing
 
-\- const / readonly / static
+- const / readonly / static
 
-\- Exception handling
+- Exception handling
 
-\- Generics
+- Generics
 
-\- Delegates and events
+- Delegates and events
 
-\- Lambda expressions
+- Lambda expressions
 
-\- Extension methods
+- Extension methods
 
-\- Pattern matching
+- Pattern matching
 
-\- Tuples
+- Tuples
 
-\- IDisposable
+- IDisposable
 
-\- Equality
+- Equality
 

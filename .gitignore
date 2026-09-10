@@ -5,3 +5,6 @@
 /.vs
 /csharp-roadmap-fundamentals/obj
 /csharp-roadmap-fundamentals/.vs/csharp-roadmap-fundamentals.slnx
+/01-types/obj
+/01-types/bin/Debug/net10.0
+/csharp-roadmap-fundamentals/bin/Debug/net10.0

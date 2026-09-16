@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../01-types/01-types.csproj" />
+  <Project Path="../02-classes-structs-records/02-classes-structs-records.csproj" Id="09e195f4-5653-468c-8e0a-d3fe7113f441" />
   <Project Path="csharp-roadmap-fundamentals.csproj" />
 </Solution>
